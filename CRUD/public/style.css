@@ -1,0 +1,19 @@
+body {
+    background-color: #202124;
+    /* 배경색을 원하는 색상 코드로 변경하세요 */
+    color: #9AB4F2
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #007bff;
+    color: #ffffff;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #007bff;
+    color: #ffffff;
+}
